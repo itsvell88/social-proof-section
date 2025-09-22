@@ -482,6 +482,11 @@ a {
     .testimony3 {
         margin-top: 4rem;
     }
+
+    .testimony {
+        font-size: 1.18rem;
+        padding: 0;
+    }
 }
 
 
